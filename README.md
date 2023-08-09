@@ -24,7 +24,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Data Model](https://github.com/Rutesh18/AtliQ_Hospitality_Analysis/assets/115866652/d5a54439-f840-42a9-b7ab-b03ac61fc508)
 
 # Overall Analysis View
-
+![Overall Analysis](https://github.com/Rutesh18/AtliQ_Hospitality_Analysis/assets/115866652/9dae13c3-855d-4567-9718-6b585dfa594d)
 
 # Monthly Analysis View 
+![Monthly Analysis](https://github.com/Rutesh18/AtliQ_Hospitality_Analysis/assets/115866652/04843559-33dd-499a-ba89-4dc1b5df3320)
+
 
